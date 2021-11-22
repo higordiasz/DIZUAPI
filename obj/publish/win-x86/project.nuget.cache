@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oreRtBSjxWgrn+NsgkpkiXOwCHmaNsRLFrYa8+LEtvGnAalXXSaMVvbuLlApe/RL20LiUEtdQTgD9eAfOfGTqw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Arka\\Arka Bot\\DIZUAPI\\DIZUAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

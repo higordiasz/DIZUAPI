@@ -1,0 +1,5 @@
+D:\Projetos\Arka\Arka Bot\DIZUAPI\obj\Debug\netcoreapp3.1\DIZUAPI.csprojAssemblyReference.cache
+D:\Projetos\Arka\Arka Bot\DIZUAPI\obj\Debug\netcoreapp3.1\Bot.g.cs
+D:\Projetos\Arka\Arka Bot\DIZUAPI\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projetos\Arka\Arka Bot\DIZUAPI\obj\Debug\netcoreapp3.1\DIZUAPI_MarkupCompile.cache
+D:\Projetos\Arka\Arka Bot\DIZUAPI\obj\Debug\netcoreapp3.1\DIZUAPI_MarkupCompile.lref
